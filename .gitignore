@@ -1,0 +1,31 @@
+# Fisierele generate de compilator
+*.o
+*.out
+*.exe
+*.obj
+*.elf
+
+# Fisierele de depanare
+*.dSYM/
+*.pdb
+*.stackdump
+
+# Fisiere VS Code
+.vscode/
+*.code-workspace
+
+# Makefile si CMake cache
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake-build-*/
+
+# Binare si biblioteci
+bin/
+lib/
+build/
+
+# Fisiere temporare
+*.log
+*.swp
+*.swo
