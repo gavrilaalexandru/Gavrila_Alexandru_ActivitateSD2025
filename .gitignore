@@ -1,3 +1,10 @@
+*
+
+!*.c
+!*.h
+!Makefile
+!.gitignore
+
 # Fisierele generate de compilator
 *.o
 *.out
