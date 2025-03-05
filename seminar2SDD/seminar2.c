@@ -105,6 +105,8 @@ struct Masina getPrimaMasinaDupaMarca(struct Masina* vector, int nrElemente, con
     {
         if (strcmp(vector[i].marca, conditie) == 0) {
             return vector[i]; // shallow copy sau deep copy?
+            // aici returnam un shallow copy deoarece marca va fi dezalocata cand dezalocam vector
+            // aici este ok daca folosim structura returnata atat timp cat vector este inca valid
         }
     }
     return initializare(-1, 0, NULL, 0, '0');
