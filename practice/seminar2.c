@@ -139,8 +139,8 @@ int main() {
     int prag = 100; // pagini
     copiazaCartiCuNrPaginiMare(vectorCarti, nrCarti, prag, &vectorCartiCuPaginiPestePrag, &dimensiune);
 
-    printf("\nAfisare vector copiat cu nr. de pagini peste prag\n");
-    printf("--------------------------------------------------\n");
+    printf("\nAfisare vector copiat peste prag\n");
+    printf("----------------------------------\n");
     afisareVector(vectorCartiCuPaginiPestePrag, dimensiune);
 
     const char* conditie = "Vrajitorul din Oz";
