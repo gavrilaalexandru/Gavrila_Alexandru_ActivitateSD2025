@@ -1,0 +1,6 @@
+1,5.7,3555.50,Samsung,Galaxy S23,A
+2,6,4199.99,Apple,iPhone 14,C
+3,6,2499.99,Xiaomi,Redmi Note 12,S
+4,5.7,5599.99,OnePlus,9 Pro,Z
+5,5.9,1999.99,Moto,G72,F
+6,5.7,2599.99,Google,Pixel 7,J
