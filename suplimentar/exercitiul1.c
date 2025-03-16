@@ -11,8 +11,6 @@ typedef struct StructMagazin {
     char codMagazin;
 } Magazin;
 
-
-
 Magazin citireMagazinTastatura() {
     Magazin m;
     char buff[50];
