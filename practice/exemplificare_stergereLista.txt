@@ -1,0 +1,40 @@
+1 2 3 4
+prev = NULL
+temp = 1 (urm e 2)
+
+1 nod
+------
+prev = null
+imei = imeicautat
+prev = null true => *lista = 2 (temp - > urm)
+se sterg toate atributele
+temp = daca prev e null mergem la urmatorul nod (2)
+
+2 nod
+------
+prev = null
+imei = imeicautat
+prev = null true => *lista = 3 (temp ->urm)
+se sterg toate atr
+temp = 3
+
+3 nod
+------
+prev = null
+imei != imeicautat
+prev = temp (3)
+temp = 4
+
+4 nod
+------
+prev = 3
+temp = 4
+imei == imeicautat
+prev == null false
+prev->urm (care acum este 4) = temp->urm (care este 5)
+se sterg toate datele
+temp = este prev null? NU deci temp = prev->urm (adica 5) (sau ar fii null daca e ultimu nod)
+
+
+
+
