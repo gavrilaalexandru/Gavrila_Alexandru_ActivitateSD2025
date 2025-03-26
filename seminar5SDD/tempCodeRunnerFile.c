@@ -1,0 +1,1 @@
+    afisareInceputListaMasini(list);
