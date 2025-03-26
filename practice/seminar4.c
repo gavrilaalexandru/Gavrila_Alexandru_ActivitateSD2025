@@ -200,11 +200,14 @@ int main() {
     printf("Pretul total al telefoanelor cu modelul %s este: %.2f\n\n", numeModel, calculeazaPretulTelefoanelorCuUnModelAnume(lista, numeModel));
 
     char* model = getCelMaiScumpTelefon(lista);
-    printf("Cel mai scump telefon este: %s\n", model);
+    printf("Cel mai scump telefon este: %s\n\n", model);
     if (model)
     {
         free(model); // este safe sa dam free(model) si fara verificare, chiar daca este NULL
     }
+
+    stergeTelefonulCuUnAnumitImei(&lista, 'J');
+    afisareListaTelefoane(lista);
     
     dezalocareListaMasini(&lista);
     return 0;
