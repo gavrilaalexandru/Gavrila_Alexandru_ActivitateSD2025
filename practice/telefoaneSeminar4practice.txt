@@ -1,0 +1,6 @@
+1,5.7,3555.50,Samsung,Galaxy S23,A
+2,6,4199.99,Apple,Iphone 14,C
+3,6,2499.99,Samsung,Redmi Note 12,S
+4,5.7,5599.99,Apple,Iphone 14,Z
+5,5.9,1999.99,Apple,Iphone 14,F
+6,5.7,2599.99,Samsung,Pixel 7,J
