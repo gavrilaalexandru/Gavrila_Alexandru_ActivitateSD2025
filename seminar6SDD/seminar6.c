@@ -171,6 +171,8 @@ void dezalocareTabelaDeMasini(HashTable *ht) {
         {
             Nod* temp = curent;
             curent = curent->urm;
+            free(temp->info.numeSofer);
+            free(temp->info.model);
             free(temp);
         }
     }
