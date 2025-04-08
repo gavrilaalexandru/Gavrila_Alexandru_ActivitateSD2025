@@ -1,0 +1,15 @@
+1,1977,Strada Victoriei 10,500.5
+2,1977,Bulevardul Unirii 15,800.2
+3,1985,Calea Dorobanti 20,1200.0
+4,2010,Bulevardul Timisoara 25,1500.7
+5,1985,Strada Lipscani 30,450.3
+6,1935,Calea Victoriei 118,780.4
+7,1956,Bulevardul Magheru 32,920.8
+8,1964,Strada Academiei 7,680.2
+9,1992,Bulevardul Decebal 14,1350.6
+10,1932,Strada Selari 5,320.1
+11,1967,Calea Mosilor 22,760.5
+12,1974,Bulevardul Regina Elisabeta 45,1100.3
+13,1988,Strada Batiștei 12,550.7
+14,2005,Șoseaua Colentina 64,1800.9
+15,1956,Strada Smârdan 8,420.2
